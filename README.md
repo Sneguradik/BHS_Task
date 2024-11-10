@@ -24,6 +24,7 @@
 2. **Соберите и запустите**:
    Используйте предпочтительную среду разработки C# (например, Visual Studio или JetBrains Rider) для открытия решения и запуска проекта. Либо используйте .NET CLI:
     ```bash
+    dotnet restore 
     dotnet build ./AppUi
     dotnet run -- project ./AppUi
     ```
