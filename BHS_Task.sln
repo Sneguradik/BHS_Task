@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecs", "Ecs\Ecs.csproj", "{F8A40585-C9BF-4F88-8902-086934C16C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppUi", "AppUi\AppUi.csproj", "{09B49F7F-CFD5-4E91-A7E1-2C92A41DFB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A40585-C9BF-4F88-8902-086934C16C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A40585-C9BF-4F88-8902-086934C16C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A40585-C9BF-4F88-8902-086934C16C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A40585-C9BF-4F88-8902-086934C16C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B49F7F-CFD5-4E91-A7E1-2C92A41DFB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B49F7F-CFD5-4E91-A7E1-2C92A41DFB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B49F7F-CFD5-4E91-A7E1-2C92A41DFB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B49F7F-CFD5-4E91-A7E1-2C92A41DFB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
